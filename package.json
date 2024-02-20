@@ -1,0 +1,12 @@
+{
+  "name": "javascript-week-one",
+  "version": "1.0.0",
+  "description": "This is my first repository for my first week at NMIT, Web Development and Design 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
